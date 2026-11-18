@@ -1,0 +1,2 @@
+C,D,W,N,seed,p_theory,Go/Go,Go/Yield,Yield/Go,Yield/Yield,Go/Go_count,Go/Yield_count,Yield/Go_count,Yield/Yield_count,pA_empirical,pB_empirical,chi_square,chi_square_df,chi_square_p_value
+5.0,1.0,2.0,10000,20261024,0.3333333333333333,0.1053,0.2255,0.2216,0.4476,1053,2255,2216,4476,0.3308,0.3269,3.764149999999987,3,0.2880837155352831

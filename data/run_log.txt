@@ -1,0 +1,25 @@
+Baseline simulation
+C: 5.0
+D: 1.0
+W: 2.0
+N: 10000
+seed: 20261024
+p_theory: 0.3333333333333333
+Go/Go: 0.1053
+Go/Yield: 0.2255
+Yield/Go: 0.2216
+Yield/Yield: 0.4476
+Go/Go_count: 1053
+Go/Yield_count: 2255
+Yield/Go_count: 2216
+Yield/Yield_count: 4476
+pA_empirical: 0.3308
+pB_empirical: 0.3269
+chi_square: 3.764149999999987
+chi_square_df: 3
+chi_square_p_value: 0.2880837155352831
+
+Generated data/baseline_results.csv
+Generated data/conflict_penalty_sweep.csv
+Generated figures/equilibrium_sweep.png
+Generated figures/monte_carlo_validation.png
